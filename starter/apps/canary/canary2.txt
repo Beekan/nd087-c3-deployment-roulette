@@ -1,0 +1,10 @@
+kubectl get pods
+NAME                           READY   STATUS        RESTARTS   AGE
+blue-8475cbdf46-gnh8n          1/1     Running       0          15m
+blue-8475cbdf46-l75b2          1/1     Running       0          15m
+blue-8475cbdf46-xvnp8          1/1     Running       0          15m
+canary-v1-64598c676f-4vxdz     1/1     Running       0          15m
+canary-v2-5dc9c56687-kvwwh     1/1     Running       0          13m
+canary-v2-5dc9c56687-tnggz     1/1     Running       0          13m
+debug                          1/1     Terminating   1          7m6s
+hello-world-794458d64d-vhbfs   1/1     Running       0          16m
